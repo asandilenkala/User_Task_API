@@ -4,7 +4,7 @@ README file based on your project description:
 # User's and Tasks API
 
 ## Overview
-This project involves the development of a User's and Tasks API. The API is designed to manage users and their associated tasks, providing full CRUD (Create, Read, Update, Delete) operations for both users and tasks. The project is divided into several key parts, each focusing on different aspects of API development, authentication, database interaction, and documentation.
+This project involves the development of a User's and Tasks API. The API is designed to manage users and their associated tasks, providing full CRUD (Create, Read, Update, Delete) operations for both users and tasks. The project is divided into several key parts, each focusing on different aspects of API development, database interaction, and documentation.
 
 ## Project Structure
 
